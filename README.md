@@ -1,4 +1,7 @@
-BREAST CANCER PREDICTION USING SVM MODEL
+BREAST CANCER PREDICTION USING MACHINE LEARNING (SVM MODEL)
 
-Data set is provided as cancer.csv
+Data set is provided as cancer.csv file.
+
+
+
 
